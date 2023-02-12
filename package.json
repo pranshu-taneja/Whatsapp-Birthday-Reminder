@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "test": "nodemon test.js"
+  },
+  "dependencies": {
+    "cal-parser": "^1.0.2",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.20",
+    "qrcode-terminal": "^0.12.0",
+    "serve": "^14.2.0",
+    "whatsapp-web.js": "^1.19.3"
+  }
+}
